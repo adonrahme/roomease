@@ -1,0 +1,7 @@
+requires python and json-server npm to run
+
+run these commands in order 
+1. json-server --watch db.json --port 3000
+2. python3 monitor.py
+
+Now you can run the Roomease application.

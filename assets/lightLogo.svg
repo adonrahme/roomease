@@ -1,0 +1,33 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" viewBox="0.0 0.0 320.0 80.0">
+  <ns0:g fill="none" stroke="#2563eb" stroke-width="2.5">
+    <ns0:circle cx="30" cy="40" r="8" />
+    <ns0:line x1="30" y1="48" x2="30" y2="64" />
+    <ns0:line x1="20" y1="56" x2="40" y2="56" />
+    <ns0:line x1="30" y1="64" x2="22" y2="76" />
+    <ns0:line x1="30" y1="64" x2="38" y2="76" />
+    <ns0:circle cx="46" cy="40" r="8" />
+    <ns0:line x1="46" y1="48" x2="46" y2="64" />
+    <ns0:line x1="36" y1="56" x2="56" y2="56" />
+    <ns0:line x1="46" y1="64" x2="38" y2="76" />
+    <ns0:line x1="46" y1="64" x2="54" y2="76" />
+  </ns0:g>
+  <ns0:g transform="translate(70, 10)" stroke="#2563eb" stroke-width="2" fill="none">
+    <ns0:rect x="0" y="0" width="16" height="16" rx="2" />
+    <ns0:line x1="4" y1="4" x2="12" y2="4" />
+    <ns0:line x1="4" y1="8" x2="12" y2="8" />
+    <ns0:line x1="4" y1="12" x2="8" y2="12" />
+    <ns0:g transform="translate(0, 25)">
+      <ns0:rect x="0" y="0" width="16" height="16" rx="2" />
+      <ns0:polyline points="4,8 7,12 12,4" stroke-linecap="round" />
+    </ns0:g>
+    <ns0:g transform="translate(0, 50)">
+      <ns0:circle cx="5" cy="14" r="1.5" />
+      <ns0:circle cx="13" cy="14" r="1.5" />
+      <ns0:path d="M0,2 H3 L6,12 H12 L15,4 H4" stroke-linecap="round" />
+    </ns0:g>
+  </ns0:g>
+  <ns0:text x="110" y="55" font-family="Arial, sans-serif" font-size="36" font-weight="bold" letter-spacing="-1">
+    <ns0:tspan fill="#000000">Room</ns0:tspan>
+    <ns0:tspan fill="#2563eb">Ease</ns0:tspan>
+  </ns0:text>
+</ns0:svg>
